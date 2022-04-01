@@ -1,0 +1,2 @@
+# pynzi
+NFT analytics package
